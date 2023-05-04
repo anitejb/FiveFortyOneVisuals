@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "Ted Cruz",
+        "state": "TX",
+        "age_start": 43,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Ronald A. Sarasin",
+        "state": "CT",
+        "age_start": 39,
+        "birth_year": "1934",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Ted Budd",
+        "state": "NC",
+        "age_start": 46,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Elizabeth Warren",
+        "state": "MA",
+        "age_start": 64,
+        "birth_year": "1949",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Sheldon Whitehouse",
+        "state": "RI",
+        "age_start": 52,
+        "birth_year": "1955",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Todd Young",
+        "state": "IN",
+        "age_start": 39,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Peter Welch",
+        "state": "VT",
+        "age_start": 60,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ron Wyden",
+        "state": "OR",
+        "age_start": 32,
+        "birth_year": "1949",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Roger F. Wicker",
+        "state": "MS",
+        "age_start": 44,
+        "birth_year": "1951",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "J. D. Vance",
+        "state": "OH",
+        "age_start": 39,
+        "birth_year": "1984",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Raphael G. Warnock",
+        "state": "GA",
+        "age_start": 52,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Tommy Tuberville",
+        "state": "AL",
+        "age_start": 67,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Thom Tillis",
+        "state": "NC",
+        "age_start": 55,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mark R. Warner",
+        "state": "VA",
+        "age_start": 55,
+        "birth_year": "1954",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "John Thune",
+        "state": "SD",
+        "age_start": 36,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Chris Van Hollen",
+        "state": "MD",
+        "age_start": 44,
+        "birth_year": "1959",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Tina Smith",
+        "state": "MN",
+        "age_start": 60,
+        "birth_year": "1958",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Dan Sullivan",
+        "state": "AK",
+        "age_start": 51,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Kyrsten Sinema",
+        "state": "AZ",
+        "age_start": 37,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jon Tester",
+        "state": "MT",
+        "age_start": 51,
+        "birth_year": "1956",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Tim Scott",
+        "state": "SC",
+        "age_start": 46,
+        "birth_year": "1965",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jeanne Shaheen",
+        "state": "NH",
+        "age_start": 62,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Debbie Stabenow",
+        "state": "MI",
+        "age_start": 47,
+        "birth_year": "1950",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Eric Schmitt",
+        "state": "MO",
+        "age_start": 48,
+        "birth_year": "1975",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Rick Scott",
+        "state": "FL",
+        "age_start": 67,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Brian Schatz",
+        "state": "HI",
+        "age_start": 40,
+        "birth_year": "1972",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Marco Rubio",
+        "state": "FL",
+        "age_start": 40,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Charles E. Schumer",
+        "state": "NY",
+        "age_start": 31,
+        "birth_year": "1950",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Bernard Sanders",
+        "state": "VT",
+        "age_start": 50,
+        "birth_year": "1941",
+        "party": "Independent",
+        "current_member": true
+    },
+    {
+        "name": "Pete Ricketts",
+        "state": "NE",
+        "age_start": 59,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mitt Romney",
+        "state": "UT",
+        "age_start": 72,
+        "birth_year": "1947",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jacky Rosen",
+        "state": "NV",
+        "age_start": 60,
+        "birth_year": "1957",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mike Rounds",
+        "state": "SD",
+        "age_start": 61,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Gary C. Peters",
+        "state": "MI",
+        "age_start": 51,
+        "birth_year": "1958",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "James E. Risch",
+        "state": "ID",
+        "age_start": 66,
+        "birth_year": "1943",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jack Reed",
+        "state": "RI",
+        "age_start": 42,
+        "birth_year": "1949",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Alex Padilla",
+        "state": "CA",
+        "age_start": 48,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jon Ossoff",
+        "state": "GA",
+        "age_start": 34,
+        "birth_year": "1987",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Markwayne Mullin",
+        "state": "OK",
+        "age_start": 36,
+        "birth_year": "1977",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Rand Paul",
+        "state": "KY",
+        "age_start": 48,
+        "birth_year": "1963",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Christopher Murphy",
+        "state": "CT",
+        "age_start": 34,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Patty Murray",
+        "state": "WA",
+        "age_start": 43,
+        "birth_year": "1950",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Lisa Murkowski",
+        "state": "AK",
+        "age_start": 46,
+        "birth_year": "1957",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Roger Marshall",
+        "state": "KS",
+        "age_start": 57,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jeff Merkley",
+        "state": "OR",
+        "age_start": 53,
+        "birth_year": "1956",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jerry Moran",
+        "state": "KS",
+        "age_start": 43,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Robert Menendez",
+        "state": "NJ",
+        "age_start": 39,
+        "birth_year": "1954",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Edward J. Markey",
+        "state": "MA",
+        "age_start": 31,
+        "birth_year": "1946",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mitch McConnell",
+        "state": "KY",
+        "age_start": 43,
+        "birth_year": "1942",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John Kennedy",
+        "state": "LA",
+        "age_start": 66,
+        "birth_year": "1951",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Angus S. King Jr.",
+        "state": "ME",
+        "age_start": 69,
+        "birth_year": "1944",
+        "party": "Independent",
+        "current_member": true
+    },
+    {
+        "name": "Amy Klobuchar",
+        "state": "MN",
+        "age_start": 47,
+        "birth_year": "1960",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mike Lee",
+        "state": "UT",
+        "age_start": 40,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Joe Manchin III",
+        "state": "WV",
+        "age_start": 63,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "James Lankford",
+        "state": "OK",
+        "age_start": 43,
+        "birth_year": "1968",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Cynthia M. Lummis",
+        "state": "WY",
+        "age_start": 55,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Ben Ray Lujan",
+        "state": "NM",
+        "age_start": 37,
+        "birth_year": "1972",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "John W. Hickenlooper",
+        "state": "CO",
+        "age_start": 69,
+        "birth_year": "1952",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mark Kelly",
+        "state": "AZ",
+        "age_start": 56,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Cindy Hyde-Smith",
+        "state": "MS",
+        "age_start": 59,
+        "birth_year": "1959",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Tim Kaine",
+        "state": "VA",
+        "age_start": 55,
+        "birth_year": "1958",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ron Johnson",
+        "state": "WI",
+        "age_start": 56,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John Hoeven",
+        "state": "ND",
+        "age_start": 54,
+        "birth_year": "1957",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mazie K. Hirono",
+        "state": "HI",
+        "age_start": 60,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Bill Hagerty",
+        "state": "TN",
+        "age_start": 62,
+        "birth_year": "1959",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Josh Hawley",
+        "state": "MO",
+        "age_start": 40,
+        "birth_year": "1979",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Margaret Wood Hassan",
+        "state": "NH",
+        "age_start": 59,
+        "birth_year": "1958",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kirsten E. Gillibrand",
+        "state": "NY",
+        "age_start": 41,
+        "birth_year": "1966",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Martin Heinrich",
+        "state": "NM",
+        "age_start": 38,
+        "birth_year": "1971",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Chuck Grassley",
+        "state": "IA",
+        "age_start": 42,
+        "birth_year": "1933",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Lindsey Graham",
+        "state": "SC",
+        "age_start": 40,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John Fetterman",
+        "state": "PA",
+        "age_start": 54,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Joni Ernst",
+        "state": "IA",
+        "age_start": 45,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Deb Fischer",
+        "state": "NE",
+        "age_start": 62,
+        "birth_year": "1951",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Tammy Duckworth",
+        "state": "IL",
+        "age_start": 45,
+        "birth_year": "1968",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Dianne Feinstein",
+        "state": "CA",
+        "age_start": 59,
+        "birth_year": "1933",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Richard J. Durbin",
+        "state": "IL",
+        "age_start": 39,
+        "birth_year": "1944",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Catherine Cortez Masto",
+        "state": "NV",
+        "age_start": 53,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kevin Cramer",
+        "state": "ND",
+        "age_start": 52,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Steve Daines",
+        "state": "MT",
+        "age_start": 51,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Tom Cotton",
+        "state": "AR",
+        "age_start": 36,
+        "birth_year": "1977",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John Cornyn",
+        "state": "TX",
+        "age_start": 50,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mike Crapo",
+        "state": "ID",
+        "age_start": 42,
+        "birth_year": "1951",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Robert P. Casey Jr.",
+        "state": "PA",
+        "age_start": 47,
+        "birth_year": "1960",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Christopher A. Coons",
+        "state": "DE",
+        "age_start": 47,
+        "birth_year": "1963",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Bill Cassidy",
+        "state": "LA",
+        "age_start": 52,
+        "birth_year": "1957",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Susan M. Collins",
+        "state": "ME",
+        "age_start": 45,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Shelley Moore Capito",
+        "state": "WV",
+        "age_start": 48,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Thomas R. Carper",
+        "state": "DE",
+        "age_start": 36,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Benjamin L. Cardin",
+        "state": "MD",
+        "age_start": 44,
+        "birth_year": "1943",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Katie Boyd Britt",
+        "state": "AL",
+        "age_start": 41,
+        "birth_year": "1982",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mike Braun",
+        "state": "IN",
+        "age_start": 65,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John Boozman",
+        "state": "AR",
+        "age_start": 51,
+        "birth_year": "1950",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Maria Cantwell",
+        "state": "WA",
+        "age_start": 35,
+        "birth_year": "1958",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Sherrod Brown",
+        "state": "OH",
+        "age_start": 41,
+        "birth_year": "1952",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Cory A. Booker",
+        "state": "NJ",
+        "age_start": 44,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Richard Blumenthal",
+        "state": "CT",
+        "age_start": 65,
+        "birth_year": "1946",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "John Barrasso",
+        "state": "WY",
+        "age_start": 55,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Michael F. Bennet",
+        "state": "CO",
+        "age_start": 45,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Tammy Baldwin",
+        "state": "WI",
+        "age_start": 37,
+        "birth_year": "1962",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Marsha Blackburn",
+        "state": "TN",
+        "age_start": 51,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "L. A. (Skip) Bafalis",
+        "state": "FL",
+        "age_start": 44,
+        "birth_year": "1929",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "John W. Jenrette Jr.",
+        "state": "SC",
+        "age_start": 39,
+        "birth_year": "1936",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Patricia Schroeder",
+        "state": "CO",
+        "age_start": 33,
+        "birth_year": "1940",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jennifer L. McClellan",
+        "state": "VA",
+        "age_start": 51,
+        "birth_year": "1972",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Brittany Pettersen",
+        "state": "CO",
+        "age_start": 42,
+        "birth_year": "1981",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Brian J. Donnelly",
+        "state": "MA",
+        "age_start": 33,
+        "birth_year": "1946",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "James T. Broyhill",
+        "state": "NC",
+        "age_start": 36,
+        "birth_year": "1927",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "John W. Olver",
+        "state": "MA",
+        "age_start": 55,
+        "birth_year": "1936",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "James Abourezk",
+        "state": "SD",
+        "age_start": 40,
+        "birth_year": "1931",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Dale W. Strong",
+        "state": "AL",
+        "age_start": 53,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jamie Raskin",
+        "state": "MD",
+        "age_start": 55,
+        "birth_year": "1962",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Dave Durenberger",
+        "state": "MN",
+        "age_start": 43,
+        "birth_year": "1934",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Brandon Williams",
+        "state": "NY",
+        "age_start": 56,
+        "birth_year": "1967",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Gabe Vasquez",
+        "state": "NM",
+        "age_start": 39,
+        "birth_year": "1984",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Derrick Van Orden",
+        "state": "WI",
+        "age_start": 54,
+        "birth_year": "1969",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jill N. Tokuda",
+        "state": "HI",
+        "age_start": 47,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Shri Thanedar",
+        "state": "MI",
+        "age_start": 68,
+        "birth_year": "1955",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Eric Sorensen",
+        "state": "IL",
+        "age_start": 47,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Keith Self",
+        "state": "TX",
+        "age_start": 70,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "George Santos",
+        "state": "NY",
+        "age_start": 35,
+        "birth_year": "1988",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Andrea Salinas",
+        "state": "OR",
+        "age_start": 54,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Marie Gluesenkamp Perez",
+        "state": "WA",
+        "age_start": 35,
+        "birth_year": "1988",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Andrew Ogles",
+        "state": "TN",
+        "age_start": 52,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Zachary Nunn",
+        "state": "IA",
+        "age_start": 44,
+        "birth_year": "1979",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Wiley Nickel",
+        "state": "NC",
+        "age_start": 48,
+        "birth_year": "1975",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kevin Mullin",
+        "state": "CA",
+        "age_start": 53,
+        "birth_year": "1970",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "James C. Moylan",
+        "state": "GU",
+        "age_start": 61,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jared Moskowitz",
+        "state": "FL",
+        "age_start": 43,
+        "birth_year": "1980",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Nathaniel Moran",
+        "state": "TX",
+        "age_start": 49,
+        "birth_year": "1974",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Marcus J. Molinaro",
+        "state": "NY",
+        "age_start": 48,
+        "birth_year": "1975",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Cory Mills",
+        "state": "FL",
+        "age_start": 43,
+        "birth_year": "1980",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Max L. Miller",
+        "state": "OH",
+        "age_start": 35,
+        "birth_year": "1988",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Robert Menendez",
+        "state": "NJ",
+        "age_start": 38,
+        "birth_year": "1985",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Morgan McGarvey",
+        "state": "KY",
+        "age_start": 44,
+        "birth_year": "1979",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Richard McCormick",
+        "state": "GA",
+        "age_start": 55,
+        "birth_year": "1968",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Seth Magaziner",
+        "state": "RI",
+        "age_start": 40,
+        "birth_year": "1983",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Morgan Luttrell",
+        "state": "TX",
+        "age_start": 48,
+        "birth_year": "1975",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Anna Paulina Luna",
+        "state": "FL",
+        "age_start": 34,
+        "birth_year": "1989",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Summer L. Lee",
+        "state": "PA",
+        "age_start": 36,
+        "birth_year": "1987",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Laurel M. Lee",
+        "state": "FL",
+        "age_start": 49,
+        "birth_year": "1974",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Michael Lawler",
+        "state": "NY",
+        "age_start": 37,
+        "birth_year": "1986",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Nicholas A. Langworthy",
+        "state": "NY",
+        "age_start": 42,
+        "birth_year": "1981",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Greg Landsman",
+        "state": "OH",
+        "age_start": 47,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Nick LaLota",
+        "state": "NY",
+        "age_start": 45,
+        "birth_year": "1978",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Kevin Kiley",
+        "state": "CA",
+        "age_start": 38,
+        "birth_year": "1985",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jennifer Kiggans",
+        "state": "VA",
+        "age_start": 52,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Thomas H. Kean, Jr.",
+        "state": "NJ",
+        "age_start": 55,
+        "birth_year": "1968",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Sydney Kamlager-Dove",
+        "state": "CA",
+        "age_start": 51,
+        "birth_year": "1972",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "John James",
+        "state": "MI",
+        "age_start": 42,
+        "birth_year": "1981",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jeff Jackson",
+        "state": "NC",
+        "age_start": 41,
+        "birth_year": "1982",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Glenn Ivey",
+        "state": "MD",
+        "age_start": 62,
+        "birth_year": "1961",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Wesley Hunt",
+        "state": "TX",
+        "age_start": 42,
+        "birth_year": "1981",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Val T. Hoyle",
+        "state": "OR",
+        "age_start": 59,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Erin Houchin",
+        "state": "IN",
+        "age_start": 47,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Harriet M. Hageman",
+        "state": "WY",
+        "age_start": 61,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Daniel S. Goldman",
+        "state": "NY",
+        "age_start": 47,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Robert Garcia",
+        "state": "CA",
+        "age_start": 46,
+        "birth_year": "1977",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Russell Fry",
+        "state": "SC",
+        "age_start": 38,
+        "birth_year": "1985",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Maxwell Frost",
+        "state": "FL",
+        "age_start": 26,
+        "birth_year": "1997",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Valerie P. Foushee",
+        "state": "NC",
+        "age_start": 67,
+        "birth_year": "1956",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mike Ezell",
+        "state": "MS",
+        "age_start": 64,
+        "birth_year": "1959",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Chuck Edwards",
+        "state": "NC",
+        "age_start": 63,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John S. Duarte",
+        "state": "CA",
+        "age_start": 57,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Anthony D'Esposito",
+        "state": "NY",
+        "age_start": 41,
+        "birth_year": "1982",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Christopher R. Deluzio",
+        "state": "PA",
+        "age_start": 39,
+        "birth_year": "1984",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Monica De La Cruz",
+        "state": "TX",
+        "age_start": 49,
+        "birth_year": "1974",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Donald G. Davis",
+        "state": "NC",
+        "age_start": 52,
+        "birth_year": "1971",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Elijah Crane",
+        "state": "AZ",
+        "age_start": 43,
+        "birth_year": "1980",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mike Collins",
+        "state": "GA",
+        "age_start": 56,
+        "birth_year": "1967",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Juan Ciscomani",
+        "state": "AZ",
+        "age_start": 41,
+        "birth_year": "1982",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Lori Chavez-DeRemer",
+        "state": "OR",
+        "age_start": 55,
+        "birth_year": "1968",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Greg Casar",
+        "state": "TX",
+        "age_start": 34,
+        "birth_year": "1989",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Yadira Caraveo",
+        "state": "CO",
+        "age_start": 43,
+        "birth_year": "1980",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Eric Burlison",
+        "state": "MO",
+        "age_start": 47,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Nikki Budzinski",
+        "state": "IL",
+        "age_start": 46,
+        "birth_year": "1977",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Josh Brecheen",
+        "state": "OK",
+        "age_start": 44,
+        "birth_year": "1979",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Aaron Bean",
+        "state": "FL",
+        "age_start": 56,
+        "birth_year": "1967",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Becca Balint",
+        "state": "VT",
+        "age_start": 55,
+        "birth_year": "1968",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mark Alford",
+        "state": "MO",
+        "age_start": 60,
+        "birth_year": "1963",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Melanie Stansbury",
+        "state": "NM",
+        "age_start": 42,
+        "birth_year": "1979",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Marie Newman",
+        "state": "IL",
+        "age_start": 57,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Peter Meijer",
+        "state": "MI",
+        "age_start": 33,
+        "birth_year": "1988",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Kaiali'I Kahele",
+        "state": "HI",
+        "age_start": 47,
+        "birth_year": "1974",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Mondaire Jones",
+        "state": "NY",
+        "age_start": 34,
+        "birth_year": "1987",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Yvette Herrell",
+        "state": "NM",
+        "age_start": 57,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Madison Cawthorn",
+        "state": "NC",
+        "age_start": 26,
+        "birth_year": "1995",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Carolyn Bourdeaux",
+        "state": "GA",
+        "age_start": 51,
+        "birth_year": "1970",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Chris Jacobs",
+        "state": "NY",
+        "age_start": 54,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Fred Keller",
+        "state": "PA",
+        "age_start": 54,
+        "birth_year": "1965",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Elaine G. Luria",
+        "state": "VA",
+        "age_start": 44,
+        "birth_year": "1975",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Van Taylor",
+        "state": "TX",
+        "age_start": 47,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Anthony Gonzalez",
+        "state": "OH",
+        "age_start": 35,
+        "birth_year": "1984",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Tom Malinowski",
+        "state": "NJ",
+        "age_start": 54,
+        "birth_year": "1965",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Cynthia Axne",
+        "state": "IA",
+        "age_start": 54,
+        "birth_year": "1965",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Michael F. Q. San Nicolas",
+        "state": "GU",
+        "age_start": 38,
+        "birth_year": "1981",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Conor Lamb",
+        "state": "PA",
+        "age_start": 34,
+        "birth_year": "1984",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Liz Cheney",
+        "state": "WY",
+        "age_start": 51,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "A. Donald McEachin",
+        "state": "VA",
+        "age_start": 56,
+        "birth_year": "1961",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Thomas R. Suozzi",
+        "state": "NY",
+        "age_start": 55,
+        "birth_year": "1962",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Anthony G. Brown",
+        "state": "MD",
+        "age_start": 56,
+        "birth_year": "1961",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Trey Hollingsworth",
+        "state": "IN",
+        "age_start": 34,
+        "birth_year": "1983",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Val Butler Demings",
+        "state": "FL",
+        "age_start": 60,
+        "birth_year": "1957",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Stephanie N. Murphy",
+        "state": "FL",
+        "age_start": 39,
+        "birth_year": "1978",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Al Lawson, Jr.",
+        "state": "FL",
+        "age_start": 69,
+        "birth_year": "1948",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Tom O'Halleran",
+        "state": "AZ",
+        "age_start": 71,
+        "birth_year": "1946",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Ben Sasse",
+        "state": "NE",
+        "age_start": 43,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John Katko",
+        "state": "NY",
+        "age_start": 53,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Kathleen M. Rice",
+        "state": "NY",
+        "age_start": 50,
+        "birth_year": "1965",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Lee M. Zeldin",
+        "state": "NY",
+        "age_start": 35,
+        "birth_year": "1980",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Brenda L. Lawrence",
+        "state": "MI",
+        "age_start": 61,
+        "birth_year": "1954",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jody B. Hice",
+        "state": "GA",
+        "age_start": 55,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Tom Rice",
+        "state": "SC",
+        "age_start": 56,
+        "birth_year": "1957",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Sean Patrick Maloney",
+        "state": "NY",
+        "age_start": 47,
+        "birth_year": "1966",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jackie Walorski",
+        "state": "IN",
+        "age_start": 50,
+        "birth_year": "1963",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Cheri Bustos",
+        "state": "IL",
+        "age_start": 52,
+        "birth_year": "1961",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Rodney Davis",
+        "state": "IL",
+        "age_start": 43,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Alan S. Lowenthal",
+        "state": "CA",
+        "age_start": 72,
+        "birth_year": "1941",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jackie Speier",
+        "state": "CA",
+        "age_start": 58,
+        "birth_year": "1950",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Albio Sires",
+        "state": "NJ",
+        "age_start": 54,
+        "birth_year": "1951",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Tom Reed",
+        "state": "NY",
+        "age_start": 39,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "David B. McKinley",
+        "state": "WV",
+        "age_start": 64,
+        "birth_year": "1947",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Jaime Herrera Beutler",
+        "state": "WA",
+        "age_start": 33,
+        "birth_year": "1978",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Bob Gibbs",
+        "state": "OH",
+        "age_start": 57,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Steven M. Palazzo",
+        "state": "MS",
+        "age_start": 41,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Billy Long",
+        "state": "MO",
+        "age_start": 56,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Vicky Hartzler",
+        "state": "MO",
+        "age_start": 51,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Adam Kinzinger",
+        "state": "IL",
+        "age_start": 33,
+        "birth_year": "1978",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Karen Bass",
+        "state": "CA",
+        "age_start": 58,
+        "birth_year": "1953",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Mo Brooks",
+        "state": "AL",
+        "age_start": 57,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "John A. Yarmuth",
+        "state": "KY",
+        "age_start": 60,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Ed Perlmutter",
+        "state": "CO",
+        "age_start": 54,
+        "birth_year": "1953",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jerry McNerney",
+        "state": "CA",
+        "age_start": 56,
+        "birth_year": "1951",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Kurt Schrader",
+        "state": "OR",
+        "age_start": 58,
+        "birth_year": "1951",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Ann Kirkpatrick",
+        "state": "AZ",
+        "age_start": 59,
+        "birth_year": "1950",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Arthur Ravenel Jr.",
+        "state": "SC",
+        "age_start": 60,
+        "birth_year": "1927",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "David E. Price",
+        "state": "NC",
+        "age_start": 47,
+        "birth_year": "1940",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Rob Portman",
+        "state": "OH",
+        "age_start": 38,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Patrick J. Toomey",
+        "state": "PA",
+        "age_start": 38,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Ron Kind",
+        "state": "WI",
+        "age_start": 34,
+        "birth_year": "1963",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Kevin Brady",
+        "state": "TX",
+        "age_start": 42,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Roy Blunt",
+        "state": "MO",
+        "age_start": 47,
+        "birth_year": "1950",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Don Young",
+        "state": "AK",
+        "age_start": 40,
+        "birth_year": "1933",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Fred Upton",
+        "state": "MI",
+        "age_start": 34,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Norman D. Shumway",
+        "state": "CA",
+        "age_start": 45,
+        "birth_year": "1934",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Richard C. Shelby",
+        "state": "AL",
+        "age_start": 45,
+        "birth_year": "1934",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Bobby L. Rush",
+        "state": "IL",
+        "age_start": 47,
+        "birth_year": "1946",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Lucille Roybal-Allard",
+        "state": "CA",
+        "age_start": 52,
+        "birth_year": "1941",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Carolyn B. Maloney",
+        "state": "NY",
+        "age_start": 47,
+        "birth_year": "1946",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Patrick J. Leahy",
+        "state": "VT",
+        "age_start": 35,
+        "birth_year": "1940",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Norris Cotton",
+        "state": "NH",
+        "age_start": 47,
+        "birth_year": "1900",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Marlow W. Cook",
+        "state": "KY",
+        "age_start": 41,
+        "birth_year": "1926",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Louie Gohmert",
+        "state": "TX",
+        "age_start": 52,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "G. K. Butterfield",
+        "state": "NC",
+        "age_start": 57,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Tim Ryan",
+        "state": "OH",
+        "age_start": 30,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "James R. Langevin",
+        "state": "RI",
+        "age_start": 37,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jim Cooper",
+        "state": "TN",
+        "age_start": 29,
+        "birth_year": "1954",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Steve Chabot",
+        "state": "OH",
+        "age_start": 42,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Richard Burr",
+        "state": "NC",
+        "age_start": 40,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Michael F. Doyle",
+        "state": "PA",
+        "age_start": 42,
+        "birth_year": "1953",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Peter A. DeFazio",
+        "state": "OR",
+        "age_start": 40,
+        "birth_year": "1947",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Elliott H. Levitas",
+        "state": "GA",
+        "age_start": 45,
+        "birth_year": "1930",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jim Kolbe",
+        "state": "AZ",
+        "age_start": 43,
+        "birth_year": "1942",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Eddie Bernice Johnson",
+        "state": "TX",
+        "age_start": 58,
+        "birth_year": "1935",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "James M. Inhofe",
+        "state": "OK",
+        "age_start": 53,
+        "birth_year": "1934",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Carroll Hubbard Jr.",
+        "state": "KY",
+        "age_start": 38,
+        "birth_year": "1937",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Elwood H. Hillis",
+        "state": "IN",
+        "age_start": 45,
+        "birth_year": "1926",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Hillary J. Scholten",
+        "state": "MI",
+        "age_start": 41,
+        "birth_year": "1982",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jonathan L. Jackson",
+        "state": "IL",
+        "age_start": 57,
+        "birth_year": "1966",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Delia C. Ramirez",
+        "state": "IL",
+        "age_start": 40,
+        "birth_year": "1983",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jasmine Crockett",
+        "state": "TX",
+        "age_start": 42,
+        "birth_year": "1981",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Emilia Strong Sykes",
+        "state": "OH",
+        "age_start": 37,
+        "birth_year": "1986",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kweisi Mfume",
+        "state": "MD",
+        "age_start": 39,
+        "birth_year": "1948",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Andy Levin",
+        "state": "MI",
+        "age_start": 59,
+        "birth_year": "1960",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Rudy Yakym III",
+        "state": "IN",
+        "age_start": 38,
+        "birth_year": "1984",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "William R. Timmons IV",
+        "state": "SC",
+        "age_start": 35,
+        "birth_year": "1984",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Joseph Sempolinski",
+        "state": "NY",
+        "age_start": 39,
+        "birth_year": "1983",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Patrick Ryan",
+        "state": "NY",
+        "age_start": 40,
+        "birth_year": "1982",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mary Sattler Peltola",
+        "state": "AK",
+        "age_start": 49,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mariannette Miller-Meeks",
+        "state": "IA",
+        "age_start": 66,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mayra Flores",
+        "state": "TX",
+        "age_start": 36,
+        "birth_year": "1986",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Mike Flood",
+        "state": "NE",
+        "age_start": 47,
+        "birth_year": "1975",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Brad Finstad",
+        "state": "MN",
+        "age_start": 46,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jake Ellzey",
+        "state": "TX",
+        "age_start": 51,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Connie Conway",
+        "state": "CA",
+        "age_start": 72,
+        "birth_year": "1950",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Sheila Cherfilus-McCormick",
+        "state": "FL",
+        "age_start": 43,
+        "birth_year": "1979",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Troy Carter",
+        "state": "LA",
+        "age_start": 58,
+        "birth_year": "1963",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ryan K. Zinke",
+        "state": "MT",
+        "age_start": 54,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Kelly   Loeffler",
+        "state": "GA",
+        "age_start": 50,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Ron Wright",
+        "state": "TX",
+        "age_start": 66,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Antonio Delgado",
+        "state": "NY",
+        "age_start": 42,
+        "birth_year": "1977",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Debra A. Haaland",
+        "state": "NM",
+        "age_start": 59,
+        "birth_year": "1960",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jim Hagedorn",
+        "state": "MN",
+        "age_start": 57,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Charlie Crist",
+        "state": "FL",
+        "age_start": 61,
+        "birth_year": "1956",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Kamala D. Harris",
+        "state": "CA",
+        "age_start": 53,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Filemon Vela",
+        "state": "TX",
+        "age_start": 50,
+        "birth_year": "1963",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Theodore E. Deutch",
+        "state": "FL",
+        "age_start": 44,
+        "birth_year": "1966",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Steve Stivers",
+        "state": "OH",
+        "age_start": 46,
+        "birth_year": "1965",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Cedric L. Richmond",
+        "state": "LA",
+        "age_start": 38,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Marcia L. Fudge",
+        "state": "OH",
+        "age_start": 56,
+        "birth_year": "1952",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Jeff Fortenberry",
+        "state": "NE",
+        "age_start": 45,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Devin Nunes",
+        "state": "CA",
+        "age_start": 30,
+        "birth_year": "1973",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Alcee L. Hastings",
+        "state": "FL",
+        "age_start": 57,
+        "birth_year": "1936",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Mike Carey",
+        "state": "OH",
+        "age_start": 50,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Shontel M. Brown",
+        "state": "OH",
+        "age_start": 46,
+        "birth_year": "1975",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Julia Letlow",
+        "state": "LA",
+        "age_start": 40,
+        "birth_year": "1981",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jay Obernolte",
+        "state": "CA",
+        "age_start": 51,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Young Kim",
+        "state": "CA",
+        "age_start": 59,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jerry L. Carl",
+        "state": "AL",
+        "age_start": 63,
+        "birth_year": "1958",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Nikema Williams",
+        "state": "GA",
+        "age_start": 43,
+        "birth_year": "1978",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Beth Van Duyne",
+        "state": "TX",
+        "age_start": 51,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Ritchie Torres",
+        "state": "NY",
+        "age_start": 33,
+        "birth_year": "1988",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Marilyn Strickland",
+        "state": "WA",
+        "age_start": 59,
+        "birth_year": "1962",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Michelle Steel",
+        "state": "CA",
+        "age_start": 66,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Victoria Spartz",
+        "state": "IN",
+        "age_start": 43,
+        "birth_year": "1978",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Maria Elvira Salazar",
+        "state": "FL",
+        "age_start": 60,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Deborah K. Ross",
+        "state": "NC",
+        "age_start": 58,
+        "birth_year": "1963",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Matthew M. Rosendale Sr.",
+        "state": "MT",
+        "age_start": 61,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "August Pfluger",
+        "state": "TX",
+        "age_start": 44,
+        "birth_year": "1977",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Burgess Owens",
+        "state": "UT",
+        "age_start": 70,
+        "birth_year": "1951",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Troy E. Nehls",
+        "state": "TX",
+        "age_start": 53,
+        "birth_year": "1968",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Frank J. Mrvan",
+        "state": "IN",
+        "age_start": 52,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Blake D. Moore",
+        "state": "UT",
+        "age_start": 41,
+        "birth_year": "1980",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Barry Moore",
+        "state": "AL",
+        "age_start": 55,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mary E. Miller",
+        "state": "IL",
+        "age_start": 62,
+        "birth_year": "1959",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Lisa C. McClain",
+        "state": "MI",
+        "age_start": 55,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Kathy E. Manning",
+        "state": "NC",
+        "age_start": 65,
+        "birth_year": "1956",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Tracey Mann",
+        "state": "KS",
+        "age_start": 45,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Nicole Malliotakis",
+        "state": "NY",
+        "age_start": 41,
+        "birth_year": "1980",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Nancy Mace",
+        "state": "SC",
+        "age_start": 44,
+        "birth_year": "1977",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Teresa Leger Fernandez",
+        "state": "NM",
+        "age_start": 62,
+        "birth_year": "1959",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jake LaTurner",
+        "state": "KS",
+        "age_start": 33,
+        "birth_year": "1988",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Sara Jacobs",
+        "state": "CA",
+        "age_start": 32,
+        "birth_year": "1989",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ronny Jackson",
+        "state": "TX",
+        "age_start": 54,
+        "birth_year": "1967",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Ashley Hinson",
+        "state": "IA",
+        "age_start": 38,
+        "birth_year": "1983",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Diana Harshbarger",
+        "state": "TN",
+        "age_start": 61,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Andrew R. Garbarino",
+        "state": "NY",
+        "age_start": 37,
+        "birth_year": "1984",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Marjorie Taylor Greene",
+        "state": "GA",
+        "age_start": 47,
+        "birth_year": "1974",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Bob Good",
+        "state": "VA",
+        "age_start": 56,
+        "birth_year": "1965",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Tony Gonzales",
+        "state": "TX",
+        "age_start": 41,
+        "birth_year": "1980",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Carlos A. Gimenez",
+        "state": "FL",
+        "age_start": 67,
+        "birth_year": "1954",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "C. Scott Franklin",
+        "state": "FL",
+        "age_start": 57,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Scott Fitzgerald",
+        "state": "WI",
+        "age_start": 58,
+        "birth_year": "1963",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Michelle Fischbach",
+        "state": "MN",
+        "age_start": 56,
+        "birth_year": "1965",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Randy Feenstra",
+        "state": "IA",
+        "age_start": 52,
+        "birth_year": "1969",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Pat Fallon",
+        "state": "TX",
+        "age_start": 54,
+        "birth_year": "1967",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Byron Donalds",
+        "state": "FL",
+        "age_start": 43,
+        "birth_year": "1978",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Andrew S. Clyde",
+        "state": "GA",
+        "age_start": 58,
+        "birth_year": "1963",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Kat Cammack",
+        "state": "FL",
+        "age_start": 33,
+        "birth_year": "1988",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Cori Bush",
+        "state": "MO",
+        "age_start": 45,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jamaal Bowman",
+        "state": "NY",
+        "age_start": 45,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Lauren Boebert",
+        "state": "CO",
+        "age_start": 35,
+        "birth_year": "1986",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Stephanie I. Bice",
+        "state": "OK",
+        "age_start": 48,
+        "birth_year": "1973",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Cliff Bentz",
+        "state": "OR",
+        "age_start": 69,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jake Auchincloss",
+        "state": "MA",
+        "age_start": 33,
+        "birth_year": "1988",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kwanza Hall",
+        "state": "GA",
+        "age_start": 49,
+        "birth_year": "1971",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Thomas P. Tiffany",
+        "state": "WI",
+        "age_start": 63,
+        "birth_year": "1957",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mike Garcia",
+        "state": "CA",
+        "age_start": 44,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "George A. Goodling",
+        "state": "PA",
+        "age_start": 65,
+        "birth_year": "1896",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Dan Bishop",
+        "state": "NC",
+        "age_start": 55,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Gregory Murphy",
+        "state": "NC",
+        "age_start": 56,
+        "birth_year": "1963",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jared F. Golden",
+        "state": "ME",
+        "age_start": 37,
+        "birth_year": "1982",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Carol D. Miller",
+        "state": "WV",
+        "age_start": 69,
+        "birth_year": "1950",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Bryan Steil",
+        "state": "WI",
+        "age_start": 38,
+        "birth_year": "1981",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Kim Schrier",
+        "state": "WA",
+        "age_start": 51,
+        "birth_year": "1968",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jennifer Wexton",
+        "state": "VA",
+        "age_start": 51,
+        "birth_year": "1968",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Abigail Davis Spanberger",
+        "state": "VA",
+        "age_start": 40,
+        "birth_year": "1979",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ben Cline",
+        "state": "VA",
+        "age_start": 47,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Denver Riggleman",
+        "state": "VA",
+        "age_start": 49,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Ben McAdams",
+        "state": "UT",
+        "age_start": 45,
+        "birth_year": "1974",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Colin Z. Allred",
+        "state": "TX",
+        "age_start": 36,
+        "birth_year": "1983",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Sylvia R. Garcia",
+        "state": "TX",
+        "age_start": 69,
+        "birth_year": "1950",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Chip Roy",
+        "state": "TX",
+        "age_start": 47,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Veronica Escobar",
+        "state": "TX",
+        "age_start": 50,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Lizzie Fletcher",
+        "state": "TX",
+        "age_start": 44,
+        "birth_year": "1975",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Lance Gooden",
+        "state": "TX",
+        "age_start": 37,
+        "birth_year": "1982",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Dan Crenshaw",
+        "state": "TX",
+        "age_start": 35,
+        "birth_year": "1984",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mark E. Green",
+        "state": "TN",
+        "age_start": 55,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John W. Rose",
+        "state": "TN",
+        "age_start": 54,
+        "birth_year": "1965",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Tim Burchett",
+        "state": "TN",
+        "age_start": 55,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Dusty Johnson",
+        "state": "SD",
+        "age_start": 43,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Joe Cunningham",
+        "state": "SC",
+        "age_start": 37,
+        "birth_year": "1982",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Guy Reschenthaler",
+        "state": "PA",
+        "age_start": 36,
+        "birth_year": "1983",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John Joyce",
+        "state": "PA",
+        "age_start": 62,
+        "birth_year": "1957",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Daniel Meuser",
+        "state": "PA",
+        "age_start": 55,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Chrissy Houlahan",
+        "state": "PA",
+        "age_start": 52,
+        "birth_year": "1967",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Madeleine Dean",
+        "state": "PA",
+        "age_start": 60,
+        "birth_year": "1959",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kendra S. Horn",
+        "state": "OK",
+        "age_start": 43,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Anthony Brindisi",
+        "state": "NY",
+        "age_start": 41,
+        "birth_year": "1978",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Alexandria Ocasio-Cortez",
+        "state": "NY",
+        "age_start": 30,
+        "birth_year": "1989",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Max Rose",
+        "state": "NY",
+        "age_start": 33,
+        "birth_year": "1986",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Susie Lee",
+        "state": "NV",
+        "age_start": 53,
+        "birth_year": "1966",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Xochitl Torres Small",
+        "state": "NM",
+        "age_start": 35,
+        "birth_year": "1984",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Mikie Sherrill",
+        "state": "NJ",
+        "age_start": 47,
+        "birth_year": "1972",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Andy Kim",
+        "state": "NJ",
+        "age_start": 37,
+        "birth_year": "1982",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jefferson Van Drew",
+        "state": "NJ",
+        "age_start": 66,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Chris Pappas",
+        "state": "NH",
+        "age_start": 39,
+        "birth_year": "1980",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kelly Armstrong",
+        "state": "ND",
+        "age_start": 43,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Michael Guest",
+        "state": "MS",
+        "age_start": 49,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Pete Stauber",
+        "state": "MN",
+        "age_start": 53,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Ilhan Omar",
+        "state": "MN",
+        "age_start": 37,
+        "birth_year": "1982",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Dean Phillips",
+        "state": "MN",
+        "age_start": 50,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Angie Craig",
+        "state": "MN",
+        "age_start": 47,
+        "birth_year": "1972",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Rashida Tlaib",
+        "state": "MI",
+        "age_start": 43,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Haley M. Stevens",
+        "state": "MI",
+        "age_start": 36,
+        "birth_year": "1983",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Elissa Slotkin",
+        "state": "MI",
+        "age_start": 43,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "David J. Trone",
+        "state": "MD",
+        "age_start": 64,
+        "birth_year": "1955",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ayanna Pressley",
+        "state": "MA",
+        "age_start": 45,
+        "birth_year": "1974",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Lori Trahan",
+        "state": "MA",
+        "age_start": 46,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Sharice Davids",
+        "state": "KS",
+        "age_start": 39,
+        "birth_year": "1980",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Steve Watkins",
+        "state": "KS",
+        "age_start": 43,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Greg Pence",
+        "state": "IN",
+        "age_start": 63,
+        "birth_year": "1956",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "James R. Baird",
+        "state": "IN",
+        "age_start": 74,
+        "birth_year": "1945",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Lauren Underwood",
+        "state": "IL",
+        "age_start": 33,
+        "birth_year": "1986",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Sean Casten",
+        "state": "IL",
+        "age_start": 48,
+        "birth_year": "1971",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jesus G. \"Chuy\" Garcia",
+        "state": "IL",
+        "age_start": 63,
+        "birth_year": "1956",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Russ Fulcher",
+        "state": "ID",
+        "age_start": 57,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Abby Finkenauer",
+        "state": "IA",
+        "age_start": 31,
+        "birth_year": "1988",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Lucy McBath",
+        "state": "GA",
+        "age_start": 59,
+        "birth_year": "1960",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Donna E. Shalala",
+        "state": "FL",
+        "age_start": 78,
+        "birth_year": "1941",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Debbie Mucarsel-Powell",
+        "state": "FL",
+        "age_start": 48,
+        "birth_year": "1971",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "W. Gregory Steube",
+        "state": "FL",
+        "age_start": 41,
+        "birth_year": "1978",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Ross Spano",
+        "state": "FL",
+        "age_start": 53,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Michael Waltz",
+        "state": "FL",
+        "age_start": 45,
+        "birth_year": "1974",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jahana Hayes",
+        "state": "CT",
+        "age_start": 46,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Jason Crow",
+        "state": "CO",
+        "age_start": 40,
+        "birth_year": "1979",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Joe Neguse",
+        "state": "CO",
+        "age_start": 35,
+        "birth_year": "1984",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mike Levin",
+        "state": "CA",
+        "age_start": 41,
+        "birth_year": "1978",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Harley Rouda",
+        "state": "CA",
+        "age_start": 58,
+        "birth_year": "1961",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Katie Porter",
+        "state": "CA",
+        "age_start": 45,
+        "birth_year": "1974",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Gilbert Ray Cisneros, Jr.",
+        "state": "CA",
+        "age_start": 48,
+        "birth_year": "1971",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Katie Hill",
+        "state": "CA",
+        "age_start": 32,
+        "birth_year": "1987",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "TJ Cox",
+        "state": "CA",
+        "age_start": 56,
+        "birth_year": "1963",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Josh Harder",
+        "state": "CA",
+        "age_start": 33,
+        "birth_year": "1986",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Greg Stanton",
+        "state": "AZ",
+        "age_start": 49,
+        "birth_year": "1970",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Brenda Jones",
+        "state": "MI",
+        "age_start": 59,
+        "birth_year": "1959",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Susan Wild",
+        "state": "PA",
+        "age_start": 61,
+        "birth_year": "1957",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Kevin Hern",
+        "state": "OK",
+        "age_start": 57,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Joseph D. Morelle",
+        "state": "NY",
+        "age_start": 61,
+        "birth_year": "1957",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Mary Gay Scanlon",
+        "state": "PA",
+        "age_start": 59,
+        "birth_year": "1959",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Troy Balderson",
+        "state": "OH",
+        "age_start": 56,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Michael Cloud",
+        "state": "TX",
+        "age_start": 43,
+        "birth_year": "1975",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Debbie Lesko",
+        "state": "AZ",
+        "age_start": 60,
+        "birth_year": "1958",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Doug  Jones",
+        "state": "AL",
+        "age_start": 64,
+        "birth_year": "1954",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "John R. Curtis",
+        "state": "UT",
+        "age_start": 57,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jimmy Gomez",
+        "state": "CA",
+        "age_start": 43,
+        "birth_year": "1974",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ralph Norman",
+        "state": "SC",
+        "age_start": 64,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Karen C. Handel",
+        "state": "GA",
+        "age_start": 55,
+        "birth_year": "1962",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Greg Gianforte",
+        "state": "MT",
+        "age_start": 56,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Ron Estes",
+        "state": "KS",
+        "age_start": 61,
+        "birth_year": "1956",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Luther Strange",
+        "state": "AL",
+        "age_start": 64,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Mike Gallagher",
+        "state": "WI",
+        "age_start": 33,
+        "birth_year": "1984",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Pramila Jayapal",
+        "state": "WA",
+        "age_start": 52,
+        "birth_year": "1965",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Thomas A. Garrett, Jr.",
+        "state": "VA",
+        "age_start": 45,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Scott Taylor",
+        "state": "VA",
+        "age_start": 38,
+        "birth_year": "1979",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Jodey C. Arrington",
+        "state": "TX",
+        "age_start": 45,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Vicente Gonzalez",
+        "state": "TX",
+        "age_start": 50,
+        "birth_year": "1967",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "David Kustoff",
+        "state": "TN",
+        "age_start": 51,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jenniffer Gonz\u00e1lez-Col\u00f3n",
+        "state": "PR",
+        "age_start": 41,
+        "birth_year": "1976",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Lloyd Smucker",
+        "state": "PA",
+        "age_start": 53,
+        "birth_year": "1964",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Brian K. Fitzpatrick",
+        "state": "PA",
+        "age_start": 44,
+        "birth_year": "1973",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Claudia Tenney",
+        "state": "NY",
+        "age_start": 56,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "John J. Faso",
+        "state": "NY",
+        "age_start": 65,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Adriano Espaillat",
+        "state": "NY",
+        "age_start": 63,
+        "birth_year": "1954",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ruben J. Kihuen",
+        "state": "NV",
+        "age_start": 37,
+        "birth_year": "1980",
+        "party": "Democrat",
+        "current_member": null
+    },
+    {
+        "name": "Josh Gottheimer",
+        "state": "NJ",
+        "age_start": 42,
+        "birth_year": "1975",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Don Bacon",
+        "state": "NE",
+        "age_start": 54,
+        "birth_year": "1963",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jason Lewis",
+        "state": "MN",
+        "age_start": 62,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Paul Mitchell",
+        "state": "MI",
+        "age_start": 61,
+        "birth_year": "1956",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Jack Bergman",
+        "state": "MI",
+        "age_start": 70,
+        "birth_year": "1947",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Mike Johnson",
+        "state": "LA",
+        "age_start": 45,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Clay Higgins",
+        "state": "LA",
+        "age_start": 56,
+        "birth_year": "1961",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jim Banks",
+        "state": "IN",
+        "age_start": 38,
+        "birth_year": "1979",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Raja Krishnamoorthi",
+        "state": "IL",
+        "age_start": 44,
+        "birth_year": "1973",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "A. Drew Ferguson IV",
+        "state": "GA",
+        "age_start": 51,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Francis Rooney",
+        "state": "FL",
+        "age_start": 64,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Brian J. Mast",
+        "state": "FL",
+        "age_start": 37,
+        "birth_year": "1980",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Darren Soto",
+        "state": "FL",
+        "age_start": 39,
+        "birth_year": "1978",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "John H. Rutherford",
+        "state": "FL",
+        "age_start": 65,
+        "birth_year": "1952",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Neal P. Dunn",
+        "state": "FL",
+        "age_start": 64,
+        "birth_year": "1953",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Matt Gaetz",
+        "state": "FL",
+        "age_start": 35,
+        "birth_year": "1982",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Lisa Blunt Rochester",
+        "state": "DE",
+        "age_start": 55,
+        "birth_year": "1962",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "J. Luis Correa",
+        "state": "CA",
+        "age_start": 59,
+        "birth_year": "1958",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Nanette Diaz Barragan",
+        "state": "CA",
+        "age_start": 41,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Salud O. Carbajal",
+        "state": "CA",
+        "age_start": 53,
+        "birth_year": "1964",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Andy Biggs",
+        "state": "AZ",
+        "age_start": 59,
+        "birth_year": "1958",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Jimmy Panetta",
+        "state": "CA",
+        "age_start": 48,
+        "birth_year": "1969",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Ro Khanna",
+        "state": "CA",
+        "age_start": 41,
+        "birth_year": "1976",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "Dwight Evans",
+        "state": "PA",
+        "age_start": 62,
+        "birth_year": "1954",
+        "party": "Democrat",
+        "current_member": true
+    },
+    {
+        "name": "James Comer",
+        "state": "KY",
+        "age_start": 44,
+        "birth_year": "1972",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Warren Davidson",
+        "state": "OH",
+        "age_start": 46,
+        "birth_year": "1970",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Darin LaHood",
+        "state": "IL",
+        "age_start": 47,
+        "birth_year": "1968",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Trent Kelly",
+        "state": "MS",
+        "age_start": 49,
+        "birth_year": "1966",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Daniel M. Donovan, Jr.",
+        "state": "NY",
+        "age_start": 59,
+        "birth_year": "1956",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "David Perdue",
+        "state": "GA",
+        "age_start": 66,
+        "birth_year": "1949",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Evan H. Jenkins",
+        "state": "WV",
+        "age_start": 55,
+        "birth_year": "1960",
+        "party": "Republican",
+        "current_member": null
+    },
+    {
+        "name": "Alexander X. Mooney",
+        "state": "WV",
+        "age_start": 44,
+        "birth_year": "1971",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Glenn Grothman",
+        "state": "WI",
+        "age_start": 60,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Dan Newhouse",
+        "state": "WA",
+        "age_start": 60,
+        "birth_year": "1955",
+        "party": "Republican",
+        "current_member": true
+    },
+    {
+        "name": "Stacey E. Plaskett",
+        "state": "VI",
+        "age_start": 49,
+        "birth_year": "1966",
+        "party": "Democrat",
+        "current_member": true
+    }
+]

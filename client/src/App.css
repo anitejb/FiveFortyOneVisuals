@@ -1,0 +1,176 @@
+body {
+  background-color: #ffd9f0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 20%;
+  background-color: #ff66c4;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 10px;
+  font-family: "Arial", sans-serif;
+  color: #555;
+}
+
+.content {
+  /* margin: 0 auto; */
+  /* center horizontally */
+  /* max-width: 800px; */
+  /* limit width */
+  margin-left: 20%;
+  padding: 20px;
+  background-color: #F2F2F2;
+  color: #333;
+}
+
+.sidebar h1 {
+  text-align: center;
+  /* center text */
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.nav-link {
+  text-align: center;
+  /* center text */
+  background-color: #fff;
+  color: #333;
+  border-radius: 20px;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+}
+
+.nav-link:hover {
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+}
+
+.active {
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+}
+
+select {
+  appearance: none;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 16px;
+  width: 100%;
+  max-width: 200px;
+}
+
+input[type="range"] {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  background-color: #333;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+} */
+
+/* input[type="checkbox"]:checked {
+  background-color: #333;
+} */
+
+/* input[type="checkbox"]:checked::after {
+  content: "\2714";
+  color: #fff;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+.dropdown-container {
+  display: flex;
+  align-items: center;
+}
+
+.dropdown-container label {
+  margin-right: 10px;
+}
+
+label {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  color: #555;
+  margin-right: 10px;
+}
+
+h1 {
+  border-radius: 10px; /* adjust the value as per your preference */
+  background-color: #ff66c4; /* set the background color for the header */
+  padding: 10px; /* add padding to the header */
+  margin: 0; /* remove any default margins for the header */
+  text-align: center; /* center align the text */
+}
+
+.plot {
+  border-radius: 10px; /* adjust the value as per your preference */
+  background-color: #f2f2f2; /* set the background color for the header */
+  padding: 10px; /* add padding to the header */
+  /* margin-top: 15%; remove any default margins for the header */
+  text-align: center; /* center align the text */
+  width: 100%; /* make the header fill the width of its parent component */
+}
+
+.labels {
+  border-radius: 10px; /* adjust the value as per your preference */
+  padding: 10px; /* add padding to the header */
+  margin: 0; /* remove any default margins for the header */
+  text-align: center; /* center align the text */
+  width: 100%; 
+}
+
+.sidebar img {
+  width: 100%;
+  /* max-width: 200px; */
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.floater {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin-left: 35%;
+  width: 50%;
+  text-align: center;
+  z-index: 999;
+  background-color: #ffd9f0;
+}
